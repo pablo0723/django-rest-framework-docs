@@ -1,4 +1,6 @@
-# [DRF Docs](http://www.drfdocs.com/) [![travis][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url] [![pypi][pypi-image]][pypi-url] [![slack][slack-image]][slack-url]
+# [DRF Docs 2](http://www.drfdocs.com/) [![travis][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url] [![pypi][pypi-image]][pypi-url] [![slack][slack-image]][slack-url]
+
+DRF Docs2 is clone of DRF Docs, but support Django 2, fixed permission class and regex.
 
 Document Web APIs made with Django Rest Framework. [View Demo](http://demo.drfdocs.com/)
 
@@ -9,7 +11,7 @@ Document Web APIs made with Django Rest Framework. [View Demo](http://demo.drfdo
 ### Supports
 
   - Python (2.7, 3.4, 3.5, 3.6)
-  - Django (1.10, 1.11, 2.0)
+  - Django (1.10, 1.11, 2.0, 2.2)
   - Django Rest Framework (3.4+)
 
 
@@ -39,7 +41,7 @@ For more information visit [the docs](http://drfdocs.com/contributing/).
 
 Install using pip:
 
-    pip install drfdocs
+    pip install drfdocs2
 
 Add 'rest_framework_docs' to your `INSTALLED_APPS` setting:
 
