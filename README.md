@@ -1,6 +1,6 @@
 # [DRF Docs 2](http://www.drfdocs.com/) [![travis][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url] [![pypi][pypi-image]][pypi-url] [![slack][slack-image]][slack-url]
 
-DRF Docs2 is clone of DRF Docs, but support Django 2, fixed permission class and regex.
+DRF Docs2 is clone of DRF Docs, but support Django 2 and Django 3, fixed permission class and regex.
 
 Document Web APIs made with Django Rest Framework. [View Demo](http://demo.drfdocs.com/)
 
@@ -10,8 +10,8 @@ Document Web APIs made with Django Rest Framework. [View Demo](http://demo.drfdo
 
 ### Supports
 
-  - Python (2.7, 3.4, 3.5, 3.6)
-  - Django (1.10, 1.11, 2.0, 2.2)
+  - Python (3.5, 3.6, 3.7.)
+  - Django (2.0, 2.2, 3.0.)
   - Django Rest Framework (3.4+)
 
 
